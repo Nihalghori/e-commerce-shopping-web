@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/e-commerce-shopping-web/static/css/main.3912b9fe.css",
+    "main.js": "/e-commerce-shopping-web/static/js/main.26e04670.js",
+    "static/js/787.46493d11.chunk.js": "/e-commerce-shopping-web/static/js/787.46493d11.chunk.js",
+    "static/media/Sale banner _ gif _ 7_am.gif": "/e-commerce-shopping-web/static/media/Sale banner _ gif _ 7_am.521d58f0785d8c2465d8.gif",
+    "static/media/-removebg-preview.png": "/e-commerce-shopping-web/static/media/6c462089ec5bdbf60c73786b1a1d32da-removebg-preview.3ec8e94ecbbd1dac4544.png",
+    "static/media/jpg": "/e-commerce-shopping-web/static/media/4fbad5e66bb517f5328a0f71f7b840df.94ecafead1cf9645aa49.jpg",
+    "static/media/Men's Shirt Summer Shirt Solid Color Turndown White Light Green Red Street Daily Short Sleeve Button-Down Clothing Apparel Fashion Casual Chunky Breathable Green-XXXL.jpeg": "/e-commerce-shopping-web/static/media/Men's Shirt Summer Shirt Solid Color Turndown White Light Green Red Street Daily Short Sleeve Button-Down Clothing Apparel Fashion Casual Chunky Breathable Green-XXXL.0ea1a2e6a47dfd9e44d9.jpeg",
+    "static/media/Styling and photography using colour.jpeg": "/e-commerce-shopping-web/static/media/Styling and photography using colour.7d696098dfc5cb950f26.jpeg",
+    "static/media/-removebg-preview (1).png": "/e-commerce-shopping-web/static/media/7663cd59d8816ee49f797c0edafcf74e-removebg-preview (1).f0b9a18d519a553600ab.png",
+    "index.html": "/e-commerce-shopping-web/index.html",
+    "main.3912b9fe.css.map": "/e-commerce-shopping-web/static/css/main.3912b9fe.css.map",
+    "main.26e04670.js.map": "/e-commerce-shopping-web/static/js/main.26e04670.js.map",
+    "787.46493d11.chunk.js.map": "/e-commerce-shopping-web/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3912b9fe.css",
+    "static/js/main.26e04670.js"
+  ]
+}
